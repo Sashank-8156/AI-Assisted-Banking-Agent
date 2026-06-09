@@ -1,20 +1,18 @@
 # Vault Intelligence — AI-Powered Banking Assistant
 
-> A production-grade AI banking assistant that answers financial questions with **document-grounded responses** using the Claude API (Anthropic). Built with React + Vite.
-
-![Vault Intelligence Screenshot](./public/vault-icon.svg)
+> A production-grade AI banking assistant that answers financial questions with **document-grounded responses**. Built with React + Vite.
 
 ---
 
 ## Features
 
-- **Document-Grounded AI** — All responses are strictly grounded in loaded financial documents. No hallucination.
+- **Document-Grounded AI** — All responses are strictly loaded from the internal documents
 - **5 Pre-loaded Financial Documents** — Earnings report, loan policy manual, AML compliance guide, rate sheet, and investment portfolio policy.
 - **Source Citation** — Every AI response shows which documents were referenced.
 - **Focused Context** — Sidebar lets you narrow the AI's context to a single document.
 - **Conversation Memory** — Full multi-turn chat with history passed on every request.
 - **Suggested Questions** — Chip buttons for common banking queries.
-- **Dark Mode** — Automatic via `prefers-color-scheme`.
+- **Themes Selection -- Dark Mode** — Automatic via `prefers-color-scheme`.
 - **Responsive** — Works on desktop and mobile.
 
 ---
@@ -36,7 +34,6 @@
 ### Prerequisites
 
 - Node.js 18+
-- An [Anthropic API key](https://console.anthropic.com)
 
 ### Installation
 
@@ -58,13 +55,6 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser.
-
-### Build for Production
-
-```bash
-npm run build
-npm run preview
-```
 
 ---
 
@@ -235,12 +225,12 @@ For large document sets, use embeddings + vector search:
 
 ## License
 
-MIT — feel free to fork, adapt, and build on this.
+None Required — feel free to fork, adapt, and build on this.
 
 ---
 
 ## Author
 
 **Sai Sashank Sudunagunta**  
-Senior Software Engineer · AI/ML Systems  
+Lead Software Engineer · AI/ML Systems, JAVA Spring Boot, Angular · Fifth Third Bank  
 [LinkedIn](https://linkedin.com/in/sai-sashank-sudunagunta-4272091b6)
