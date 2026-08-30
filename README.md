@@ -243,4 +243,4 @@ MIT — feel free to fork, adapt, and build on this.
 
 **Sai Sashank Sudunagunta**  
 Senior Software Engineer · AI/ML Systems  
-[LinkedIn](https://linkedin.com/in/sai-sashank-sudunagunta-4272091b6)
+[LinkedIn](https://www.linkedin.com/in/sai-sashank-4272091b6/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BnIpsIrwgQLC%2Fz37otwdrqA%3D%3D)
